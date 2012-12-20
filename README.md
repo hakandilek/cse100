@@ -18,4 +18,5 @@ Please consider the following:
  * Do not forget to push after commiting. You can find information on the Internet how to do it. Active learning is a part of this homework.
  * Do not delete each others' names. You might need to "merge" NAMEs.txt file. If you have a collusion.
  * If you delete another names of other class mates, you'll get no points.
+ * Do not send any files via Email. Submission via email will not be accepted.
  * Good Luck and have fun! 
