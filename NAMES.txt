@@ -8,3 +8,4 @@ Student ID	Name
 0150111059   Elif Erdil
 150111014       İzzeddin Çelik
 150112901 GOSHGAR İSMAYILOV
+150111029   Ferit Tunçer
