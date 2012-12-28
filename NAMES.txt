@@ -6,7 +6,7 @@ Student ID	Name
 150111030 Gökhan AVCI(6TH LINE)
 150112011   Mehmet Demiralp
 0150111059   Elif Erdil
-150111014       İzzeddin Çelik
+150111014      İzzeddin Çelik
 150112901 GOSHGAR İSMAYILOV
 150111029   Ferit Tunçer
 150112003 Mert Eriş
