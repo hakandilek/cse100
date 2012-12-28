@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Student ID	Name
 ----------	--------
 0123456789	Hakan Dilek
@@ -13,7 +14,6 @@ Student ID	Name
 150111034 Orhan Güneş
 150111021 Emine Aksoy
 150111058  Muhammet Altintas
-<<<<<<< HEAD
 150111019 Erhan Turhan
 150111031  Gürsel Nazıroğlu
 150111015 Mücahid Ömer Bozkurt
@@ -39,3 +39,4 @@ Student ID	Name
 150111022 Musab Bozkurt
 150111011 Yahya BAYCUMAN
 150110015 Mehmet CAGLAR
+150112036	Ahsengul Altintas
