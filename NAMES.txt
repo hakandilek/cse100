@@ -24,3 +24,4 @@ Student ID	Name
 150112067   Akıner ALKAN
 150111038	Fatih Onur Akboyun
 150108053 YALÇIN GÜNAL
+150112004 Sinan Şengör
