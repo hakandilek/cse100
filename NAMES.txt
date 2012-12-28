@@ -1,11 +1,10 @@
 ﻿Student ID	Name
 ----------	--------
-0123456789	Hakan Dilek
-0150111049  Mustafa Semih Yildiz
+150111049  Mustafa Semih Yildiz
 150112069   Şeyda Kaycan
 150111030   Gökhan AVCI(6TH LINE)
 150112011   Mehmet Demiralp
-0150111059  Elif Erdil
+150111059  Elif Erdil
 150111014   İzzeddin Çelik
 150112901   GOSHGAR İSMAYILOV
 150111029   Ferit Tunçer
